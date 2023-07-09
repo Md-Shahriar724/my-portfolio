@@ -219,7 +219,7 @@ main{
     color:  black;
     font-size: 20px;
     font-weight: 500;
-    margin-top: 10px;
+    margin-top: 40px;
 }
 .under-title{
     color:  #757575;
@@ -239,4 +239,21 @@ main{
 .cv{
     text-align: center;
     margin: 50px 0px;
+}
+/* footer start here */
+
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.footer-title{
+    color: #181818;
+    font-size: 30px;
+    font-weight: 700;
+}
+.input{
+    display: block;
+   
 }
