@@ -156,4 +156,50 @@ main{
     color:  #181818;
     font-size: 35px;
     font-weight: 700;
+    margin-bottom: 20px ;
+}
+.section-discription{
+    color: #757575;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    width: 900px;
+}
+.section-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 900px;
+    margin: 50px 10px ;
+}
+.skill{
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 15px 10px 50px 0px rgba(0, 0, 0, 0.06);
+    text-align: left;
+    
+}
+.skill-title{
+    color:  #181818;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 20px;
+}
+.skill-description{
+    text-align: left;
+    color: #757575;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 20px;
+    width: 150px;
+    margin-left: 20px;
+}
+.section-image{
+    width: 40.926px;
+    height: 35.731px;
+    margin: 10px 20px ;
+    
 }
