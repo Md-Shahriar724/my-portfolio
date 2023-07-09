@@ -98,4 +98,28 @@ div > ul {
 .banner > h1, h3{
     margin: 20px 0px;
 }
-
+/* main style */
+main{
+    max-width: 1140px;
+}
+.about{
+    text-align: center;
+    border-radius: 10px;
+    background: #FFF8F3;
+    padding: 130px;
+    margin: 130px 0px;
+}
+.about-title{
+    color:  #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.about-discription{
+    color:  #757575;
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 350;
+    line-height: 20px;
+}
