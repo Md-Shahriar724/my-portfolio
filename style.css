@@ -1,0 +1,24 @@
+/* style sheet start here */
+/* navigation bar start here */
+.navigation{
+    display: flex;
+    justify-content: space-around;
+}
+.primary-color{
+    color: orange;
+}
+div > ul {
+    display: flex;
+    list-style: none;
+    padding: 10px;
+}
+.item{
+    padding: 0 10px;
+}
+.primary-btn{
+    margin: 18px 0;
+    color: white;
+    background-color: orange;
+    border:none;
+    border-radius: 5px;
+}
